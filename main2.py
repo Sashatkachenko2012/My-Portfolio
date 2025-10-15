@@ -1,0 +1,11 @@
+adjektive1 = input("type in  an adjektive:")
+name = input ("type in  a name of a city:")
+name1 = input("type in a persons name : ") 
+food1 = input("type in a food you like:")
+action1 = input("type in a verb:")
+
+print(f"Today i visited a {adjektive1} city.")
+print(f"it was called {name}.")
+print(f"I went there with {name1}.")
+print(f"I ate a {food1}.")
+print(f"At the end we were {action1} together")
