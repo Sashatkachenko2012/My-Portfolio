@@ -34,3 +34,21 @@ This project successfully reinforced the core concepts of **user interaction** a
 **Current Status:** Working on project structure (Functions: `def`) in future versions.
 
 *Part of my long-term goal to study Computer Science in the USA.*
+
+# Circle Area Calculator (Flächenrechner)
+
+**Project Goal:** Calculate the area of a circle and practice input validation.
+
+### Key Features
+
+* **Input Validation (`if/else`):** Checks if the user enters a radius greater than zero.
+* **Math Library:** Uses the `import math` function to access the constant PI.
+* **Float Input:** Handles decimal numbers correctly.
+* **Formula:** Calculates the area using the formula: $A = \pi \cdot r^2$.
+
+### Development Note (Future Focus)
+
+The next step is to reorganize the code using **Python Functions (`def`)** to improve structure and reusability.
+
+---
+*(This project is part of my portfolio for future Computer Science studies in the USA.)*
