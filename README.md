@@ -52,3 +52,19 @@ The next step is to reorganize the code using **Python Functions (`def`)** to im
 
 ---
 *(This project is part of my portfolio for future Computer Science studies in the USA.)*
+
+# Circle Area Calculator V2.0
+
+### Core Achievement
+
+First project to successfully implement **Functions (`def`)** for clean code structure.
+
+### Key Concepts
+
+* **Modular Code:** Calculation logic separated into a dedicated function.
+* **Error Handling:** Uses `if/else` for input validation (radius > 0).
+* **Libraries:** Utilizes `import math` for π.
+
+---
+*(Part of my Computer Science portfolio for US university applications.)*
+
