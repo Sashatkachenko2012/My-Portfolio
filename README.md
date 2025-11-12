@@ -68,3 +68,28 @@ First project to successfully implement **Functions (`def`)** for clean code str
 ---
 *(Part of my Computer Science portfolio for US university applications.)*
 
+# Academic Grade Tracker (Project 5)
+
+**Project Goal:** To calculate the accurate average grade from a collection of recorded grades.
+
+### Core Achievement: Data Handling & Automation
+
+This project marks the critical shift from sequential coding to **structured data analysis** by demonstrating mastery of the three foundational pillars of modern programming:
+
+1.  **Automation (For Loop):** The script uses a `for loop` to efficiently iterate through the entire grade list, performing the summation automatically. This technique is fundamental to Big Data and Machine Learning.
+2.  **Data Structure (Lists):** Grades are stored in a `list` (`[1.0, 1.3, 2.0]`), proving the ability to manage and store collections of data.
+3.  **Modular Code (Functions):** The entire calculation logic is contained within a dedicated function (`def calculate_average`), ensuring the code is reusable, clean, and organized (Separation of Concerns).
+
+### Key Python Concepts Implemented
+
+* **`for item in list`:** Iterates through every grade in the list.
+* **`len()`:** Used to accurately determine the count of grades for the division step.
+* **Parameters & Arguments:** Correctly passing the specific list (`math_grades`) into the function's generic parameter (`grades_list`).
+
+---
+*(This project is a vital part of my portfolio as I prepare to study Computer Science at a leading university in the United States.)*
+
+
+
+
+
